@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) Huawei Technologies Co., Ltd. 2021-2021. All rights reserved.
+  -->
+
+<resources>
+    <string-array name="lan">
+        <item>CN——CSL </item>
+        <item>英文——英国手语</item>
+    </string-array>
+    <string-array name="mode">
+        <item>QUEUE</item>
+        <item>清空模式</item>
+    </string-array>
+</resources>

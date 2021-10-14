@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) Huawei Technologies Co., Ltd. 2021-2021. All rights reserved.
+  -->
+
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="tab_text_color">#FF5A5A5A</color>
+    <color name="tab_indicator_color">#FFFF4C41</color>
+    <color name="mine_head_out_color">#FFFF4C41</color>
+    <color name="mine_head_in_color">#99FF4C41</color>
+    <color name="white">#FFFFFF</color>
+    <color name="home_text_select">#FFFF4C41</color>
+    <color name="home_text_unSelect">#BB000000</color>
+    <color name="background_gray">#FFF5F5F5</color>
+    <color name="background_line">#11000000</color>
+    <color name="item_setting_text_color">#FF5A5A5A</color>
+    <color name="splash_text_color">#FFE8EBF3</color>
+    <color name="splash_start_color">#FF181B27</color>
+    <color name="splash_end_color">#FF2D1D33</color>
+    <color name="login_hwid_color">#FF353041</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_unity">#F5F3F1</color>
+    <color name="scan_tips_color">#FF2A3046</color>
+</resources>

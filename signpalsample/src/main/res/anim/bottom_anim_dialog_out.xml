@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) Huawei Technologies Co., Ltd. 2021-2021. All rights reserved.
+  -->
+
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="150"
+    android:fromYDelta="0"
+    android:toYDelta="100%" />
