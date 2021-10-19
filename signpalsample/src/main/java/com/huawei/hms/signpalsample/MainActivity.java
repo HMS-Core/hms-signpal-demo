@@ -150,7 +150,10 @@ public class MainActivity extends AppCompatActivity {
         isPlay = true;
         avatarPaint.setScaleRation(imageView.getMeasuredWidth(),imageView.getMeasuredWidth());
         text = editText.getText().toString();
-        avatarPaint.frameQueue.clear();
+        if (mode == GeneratorConstants.FLUSH_MODE){
+            avatarPaint.frameQueue.clear();
+            avatarPaint.frameDataQueue.clear();
+        }
         signGenerator.text2SignMotion(text,mode);
         Avatar.getInstance().initBone();
     }
