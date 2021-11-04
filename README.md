@@ -28,6 +28,10 @@ For details, please refer to [API Reference](https://developer.huawei.com/consum
 
 For details, please refer to [Development Guide](https://developer.huawei.com/consumer/en/doc/development-process-0000001128001438).
 
+## Running Result
+
+<image>
+
 ## Technical Support
 
 You can visit the [Reddit community](https://www.reddit.com/r/HuaweiDevelopers/) to obtain the latest information about HMS Core and communicate with other developers. 
