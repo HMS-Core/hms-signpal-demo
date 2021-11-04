@@ -1,4 +1,4 @@
-# 手语服务
+# 手语服务示例代码
 
 ## 目录
 
@@ -14,7 +14,7 @@
 
 该示例APP直接调用SignPal Kit的手语生成API，并通过回调获取手语生成数据，绘制火柴人并进行手语展示。
 
-更多API信息，请参见[API参考](https://developer.huawei.com/consumer/cn/doc/api-description-0000001172995015)。
+更多API信息，请参见[API参考](https://developer.huawei.com/consumer/cn/doc/api-description-0000001172995015?ha_source=hms1)。
 
 ## 开发准备
 
@@ -24,11 +24,11 @@
 
 3)配置HMS Core SDK的Maven仓地址。
 
-详细描述，请参见[开发指南](https://developer.huawei.com/consumer/cn/doc/development-process-0000001128001438)。
+详细描述，请参见[开发指南](https://developer.huawei.com/consumer/cn/doc/development-process-0000001128001438?ha_source=hms1)。
 
 ## 运行结果
 
-<image>
+<img src=images/sample.jpg width=300>
 
 ## 技术支持
 
@@ -36,7 +36,7 @@
 
 如果您对使用HMS示例代码有疑问，请尝试：
 
-- 开发过程遇到问题上[Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services)，在`huawei-mobile-services`标签下提问，有华为研发专家在线一对一解决您的问题。
+- 开发过程遇到问题上[Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services?tab=Votes)，在`huawei-mobile-services`标签下提问，有华为研发专家在线一对一解决您的问题。
 - 到[华为开发者论坛](https://developer.huawei.com/consumer/cn/forum/blockdisplay?fid=18) HMS Core板块与其他开发者进行交流。
 
 如果您在尝试示例代码中遇到问题，请向仓库提交[issue](https://github.com/HMS-Core/hms-signpal-demo/issues)，也欢迎您提交[Pull Request](https://github.com/HMS-Core/hms-signpal-demo/pulls)。
