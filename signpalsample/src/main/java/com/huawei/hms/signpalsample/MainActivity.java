@@ -132,7 +132,7 @@ public class MainActivity extends AppCompatActivity {
         avatarPaint.startUp();
 
         // init SignGenerator
-        generatorSetting = new GeneratorSetting().setLanguage(lan);
+        generatorSetting = new GeneratorSetting().setLanguage(lan).enableRisKDetect(false);
         signGenerator = new SignGenerator(generatorSetting);
         signGenerator.setCallback(callback);
 

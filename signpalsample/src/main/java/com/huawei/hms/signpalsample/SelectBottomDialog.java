@@ -66,10 +66,10 @@ public class SelectBottomDialog extends Dialog {
         binding = DataBindingUtil.inflate(inflater, R.layout.dialog_select, null, false);
         initView();
         Window window = this.getWindow();
-        if (window != null) { // 设置dialog的布局样式 让其位于底部
+        if (window != null) {
             window.setGravity(Gravity.BOTTOM);
             WindowManager.LayoutParams lp = window.getAttributes();
-            lp.y = DataUtil.dip2px(mContext, 16); // 设置居于底部的距离
+            lp.y = DataUtil.dip2px(mContext, 16);
             window.setAttributes(lp);
         }
         setContentView(binding.getRoot());
