@@ -1,6 +1,4 @@
-# HUAWEI SignPal Kit Sample Code
-
-English | [中文](README_ZH.md)
+# SignPal Kit
 
 ## Contents
 
@@ -16,7 +14,7 @@ This project provides a demo app. Download and run the sample code and you will 
 
 By calling the API for sign generation and obtaining generated data through the callback, you will enable inputted text to be expressed in sign language by an animated 3D human model.
 
-For details, please refer to [API Reference](https://developer.huawei.com/consumer/en/doc/api-description-0000001172995015).
+For details, please refer to [API Reference](https://developer.huawei.com/consumer/cn/doc/api-description-0000001172995015?ha_source=hms1).
 
 ## Preparations
 
@@ -26,11 +24,11 @@ For details, please refer to [API Reference](https://developer.huawei.com/consum
 
 3. Configure the Maven repository address for the HMS Core SDK.
 
-For details, please refer to [Development Guide](https://developer.huawei.com/consumer/en/doc/development-process-0000001128001438).
+For details, please refer to [Development Guide](https://developer.huawei.com/consumer/cn/doc/development-process-0000001128001438?ha_source=hms1).
 
 ## Running Result
 
-<image>
+<img src=images/sample.jpg width=300>
 
 ## Technical Support
 
