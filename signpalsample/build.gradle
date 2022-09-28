@@ -10,8 +10,8 @@ android {
 
     defaultConfig {
         applicationId "com.huawei.hms.signpalsample"
-        minSdkVersion 19
-        targetSdkVersion 26
+        minSdkVersion 21
+        targetSdkVersion 29
         versionCode 1
         versionName "1.0"
 
